@@ -1,0 +1,7 @@
+{
+  "name": "foluso",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
